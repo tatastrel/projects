@@ -14,7 +14,7 @@
 - **BPMN** — моделирование бизнес‑процесса с ролями, сроками и условиями.  
   🗺️ [Исходник](bpmn.drawio)
 
-  - **Прототип в FIGMA**
+- **Прототип в FIGMA**
   🗺️ [Посмотреть прототип в Figma](https://www.figma.com/design/e80zxGBbJanrxt5ek4Tj76/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%83%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B4%D0%BE%D0%BC%D0%B0?node-id=0-1&t=kCjZ0Qksr4s4DBlR-1)
 
  - **MIRO**- создание карты пользовательских историй и MVP-продукта.
